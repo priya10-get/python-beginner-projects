@@ -14,4 +14,4 @@ A simple chatbot made with Python. It replies to basic messages like "hai" and "
 3. Run the chatbot:
 
 ```blasst
-python simpleprogram.py
+simple game project1.py
